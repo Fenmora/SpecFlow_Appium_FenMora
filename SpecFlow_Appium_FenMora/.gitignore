@@ -1,0 +1,43 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Rider specific files
+.idea/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Ignore Appium logs
+appium_logs/
+
+# Ignore SpecFlow generated files
+*.feature.cs
+*.feature.h
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignore config files with sensitive information
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Local.json
+local.settings.json
+
+# Ignore coverage reports
+coverage/
+
+# Ignore other common files
+.DS_Store
+Thumbs.db
