@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Fender/RiderProjects/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora.csproj": {}
+    "/Users/Raco/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora.csproj": {}
   },
   "projects": {
-    "/Users/Fender/RiderProjects/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora.csproj": {
+    "/Users/Raco/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Fender/RiderProjects/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora.csproj",
+        "projectUniqueName": "/Users/Raco/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora.csproj",
         "projectName": "SpecFlow_Appium_FenMora",
-        "projectPath": "/Users/Fender/RiderProjects/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora.csproj",
-        "packagesPath": "/Users/Fender/.nuget/packages/",
-        "outputPath": "/Users/Fender/RiderProjects/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/obj/",
+        "projectPath": "/Users/Raco/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora.csproj",
+        "packagesPath": "/Users/Raco/.nuget/packages/",
+        "outputPath": "/Users/Raco/SpecFlow_Appium_FenMora/SpecFlow_Appium_FenMora/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Fender/.nuget/NuGet/NuGet.Config"
+          "/Users/Raco/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/cmnhospitals/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
